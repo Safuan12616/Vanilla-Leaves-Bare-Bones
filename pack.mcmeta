@@ -1,6 +1,18 @@
 {
-  "pack": {
-    "pack_format": 32,
-    "description": "Vanilla Leaves - Bare Bones Addon"
-  }
+ "format_version": 2,
+ "header": {
+   "description": "Makes Leaves Better For Bare Bones",
+   "name": "Vanilla Leaves - Bare Bones Addon",
+   "uuid": "3cf07bac-47d7-4149-8748-0766f4b9d895",
+   "version": [1, 0, 0],
+   "min_engine_version": [1, 20, 0]
+  },
+ "modules": [
+   {
+     "description": "Makes Leaves Better For Bare Bones",
+     "type": "resources",
+     "uuid": "ce4bcbe0-ed9c-46fb-a5bb-29a200b0bc4b",
+     "version": [1, 0, 0]
+   }
+ ]
 }
